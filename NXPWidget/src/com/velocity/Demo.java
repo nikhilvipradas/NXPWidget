@@ -13,6 +13,10 @@ public class Demo {
 		for (int j=0;j<=5;j++) {
 			System.out.println("Value of j>>"+j);
 		}
+	
+		for (int k=0;k<=5;k++) {
+			System.out.println("Value of k>>"+k);
+		}
 		
 	}
 
